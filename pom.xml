@@ -6,7 +6,11 @@
 
   <groupId>com.panoscs</groupId>
   <artifactId>services</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>customer</module>
+  </modules>
 
   <name>services</name>
   <url>https://www.panocs.com</url>
