@@ -1,4 +1,4 @@
-package com.panoscs.customer;
+package com.panoscs.clients.fraud;
 
 public record FraudCheckResponse(Boolean isFraudster) {
 }
